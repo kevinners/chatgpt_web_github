@@ -97,7 +97,11 @@ export const ALL_MODELS = [
     available: true,
   },
   {
-    name: "gpt-3.5-turbo-0301001",
+    name: "ft:gpt-3.5-turbo-0125:personal::Aaw5wTJP",
+    available: true,
+  },
+  {
+    name: "gpt-3.5-turbo-0125:personal::Aaw5wTJP",
     available: true,
   },
 ];
